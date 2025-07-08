@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+
+- regenerate package-lock.json to update dependency versions (e.g. jasmine is now v5.8)
+
 ## 0.1.2
 - fix: reporting of confusing failed expectations [@devversion](https://github.com/devversion)
 

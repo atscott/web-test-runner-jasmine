@@ -1,6 +1,6 @@
 {
   "name": "web-test-runner-jasmine",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Plugin for Jasmine and Web Test Runner",
   "main": "./index.js",
   "module": "./index.js",
